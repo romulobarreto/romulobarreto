@@ -6,9 +6,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romulobarreto&show_icons=true&theme=radical)
 
+<hr/>
+
 ### Tecnologias que uso nos meus projetos
 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img align="center" alt="CSS" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -18,11 +20,14 @@
     <img align="center" alt="CSS" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
     <img align="center" alt="CSS" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align="center" alt="CSS" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</div>
+</div><br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romulobarreto)](https://github.com/anuraghazra/github-readme-stats)
+
 <hr/>
 
-### Objetivo do repositório:
+### ✅ Objetivo do repositório:
 
-#### Montar um histórico da minha caminhada saindo do zero na programação, até conquistar a minha transição de carreira para web developer. 
-#### Atualmente sou analista de dados e trabalho um pouco com python, é meu único contato com programação, mas vamos conseguir, até o final de 2025.
+####    🔹 Montar um histórico da minha caminhada saindo do zero na programação, até conquistar a minha transição de carreira para web developer🚀. 
+####    🔹 Atualmente sou analista de dados e trabalho um pouco com python, é meu único contato com programação, mas vamos conseguir, até o final de 2025👨🏻‍💻.
 
