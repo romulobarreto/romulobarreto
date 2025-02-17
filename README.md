@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Rômulo Barreto ✌️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romulobasilva/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Romulobah)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/romulo_ba/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romulobarreto&show_icons=true&theme=radical)
 
@@ -18,5 +18,11 @@
     <img align="center" alt="CSS" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
     <img align="center" alt="CSS" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align="center" alt="CSS" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</div><br/>
+</div>
+<hr/>
+
+### Objetivo do repositório:
+
+#### Montar um histórico da minha caminhada saindo do zero na programação, até conquistar a minha transição de carreira para web developer. 
+#### Atualmente sou analista de dados e trabalho um pouco com python, é meu único contato com programação, mas vamos conseguir, até o final de 2025.
 
