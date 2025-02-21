@@ -29,5 +29,6 @@
 ### ✅ Objetivo do repositório:
 
 ####    🔹 Montar um histórico da minha caminhada saindo do zero na programação, até conquistar a minha transição de carreira para web developer🚀. 
-####    🔹 Atualmente sou analista de dados e trabalho um pouco com python, é meu único contato com programação, mas vamos conseguir, até o final de 2025👨🏻‍💻.
+####    🔹 Atualmente sou analista de dados e trabalho um pouco com python, mesmo tendo um contato muito pequeno com programação, tenho certeza que vou conseguir evoluir muito até o final de 2025👨🏻‍💻. 
+####    🔹 Para sugestões ou trocar uma idea, pode me chamar no linkedin ou instagram, vou ficar feliz de conversarmos😁.
 
