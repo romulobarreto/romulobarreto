@@ -22,7 +22,7 @@
     <img align="center" alt="CSS" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romulobarreto)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romulobarreto)](https://github.com/romulobarreto/github-readme-stats)
 
 <hr/>
 
@@ -31,4 +31,3 @@
 ####    🔹 Montar um histórico da minha caminhada saindo do zero na programação, até conquistar a minha transição de carreira para web developer🚀. 
 ####    🔹 Atualmente sou analista de dados e trabalho um pouco com python, mesmo tendo um contato muito pequeno com programação, tenho certeza que vou conseguir evoluir muito até o final de 2025👨🏻‍💻. 
 ####    🔹 Para sugestões ou trocar uma idea, pode me chamar no linkedin ou instagram, vou ficar feliz de conversarmos😁.
-
