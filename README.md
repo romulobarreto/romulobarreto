@@ -22,7 +22,7 @@
     <img align="center" alt="CSS" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romulobarreto)](https://github.com/romulobarreto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romulobarreto&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr/>
 
