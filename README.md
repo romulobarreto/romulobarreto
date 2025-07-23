@@ -4,7 +4,11 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Romulobah)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/romulo_ba/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romulobarreto&show_icons=true&theme=radical)
+#### ✅ Objetivo do repositório:
+
+#####    🔹 Montar um histórico da minha caminhada saindo do zero na programação, até conquistar a minha transição de carreira para web developer🚀. 
+#####    🔹 Atualmente sou analista de dados e trabalho um pouco com python, mesmo tendo um contato muito pequeno com programação, tenho certeza que vou conseguir evoluir muito até o final de 2025👨🏻‍💻. 
+#####    🔹 Para sugestões ou trocar uma idea, pode me chamar no linkedin ou instagram, vou ficar feliz de conversarmos😁.
 
 <hr/>
 
@@ -22,10 +26,6 @@
     <img align="center" alt="CSS" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romulobarreto&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<hr/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romulobarreto/romulobarreto/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/romulobarreto/romulobarreto/output/pacman-contribution-graph.svg">
@@ -34,8 +34,11 @@
 
 <hr/>
 
-### ✅ Objetivo do repositório:
+### ⭐️ GitHub Stats
 
-####    🔹 Montar um histórico da minha caminhada saindo do zero na programação, até conquistar a minha transição de carreira para web developer🚀. 
-####    🔹 Atualmente sou analista de dados e trabalho um pouco com python, mesmo tendo um contato muito pequeno com programação, tenho certeza que vou conseguir evoluir muito até o final de 2025👨🏻‍💻. 
-####    🔹 Para sugestões ou trocar uma idea, pode me chamar no linkedin ou instagram, vou ficar feliz de conversarmos😁.
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=romulobarreto&show_icons=true&theme=radical" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulobarreto&layout=compact&theme=radical" width="400px"/>
+</div>
+
+<hr/>
