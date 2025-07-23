@@ -26,6 +26,14 @@
 
 <hr/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romulobarreto/romulobarreto/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/romulobarreto/romulobarreto/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/romulobarreto/romulobarreto/output/pacman-contribution-graph.svg">
+</picture>
+
+<hr/>
+
 ### ✅ Objetivo do repositório:
 
 ####    🔹 Montar um histórico da minha caminhada saindo do zero na programação, até conquistar a minha transição de carreira para web developer🚀. 
