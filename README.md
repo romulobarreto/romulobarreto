@@ -1,16 +1,24 @@
 ## Olá! Eu sou o Rômulo Barreto ✌️
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romulobasilva/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Romulobah)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/romulo_ba/)
 
-#### ✅ Objetivo do repositório:
+<p align="left">
+    Atualmente sou analista de dados e desenvolvedor em formação. Criei esse GitHub com o objetivo de mostrar toda a minha trajetória até alcançar a migração de carreira. <br>
+    Tenho focado meus estudos atualmente em <strong>python</strong>, com essa linguagem pretendo criar diversas soluções para oportunidades que tenho no meu dia a dia. <br>
+    Tudo será documentado aqui, do básico ao avançado, me acompanhe 😉.
+</p>
 
-#####    🔹 Montar um histórico da minha caminhada saindo do zero na programação, até conquistar a minha transição de carreira para web developer🚀. 
-#####    🔹 Atualmente sou analista de dados e trabalho um pouco com python, mesmo tendo um contato muito pequeno com programação, tenho certeza que vou conseguir evoluir muito até o final de 2025👨🏻‍💻. 
-#####    🔹 Para sugestões ou trocar uma idea, pode me chamar no linkedin ou instagram, vou ficar feliz de conversarmos😁.
+## Sobre mim
 
-<hr/>
+- 🖥️ Analista de dados.
+- 🎓 Graduado em Administração, Marketing e Gestão Comercial.
+- 🏦 Certificação CPA-20.
+- 📚 Estudando Python, foco em backend e automatização de processos.
+- 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
+
+<hr>
+<br>
 
 ### Tecnologias que uso nos meus projetos
 
@@ -34,8 +42,11 @@
 
 <hr/>
 
-### ⭐️ GitHub Stats
+## ⭐️ GitHub Stats  
 
-![GitHub Metrics](https://github.com/romulobarreto/romulobarreto/blob/main/metrics.svg)
+<a href="https://github.com/romulobarreto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romulobarreto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulobarreto&layout=compact&langs_count=6&theme=radical"/>
+
 
 <hr/>
