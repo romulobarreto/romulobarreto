@@ -18,7 +18,6 @@
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
 
 <hr>
-<br>
 
 ### Tecnologias que uso nos meus projetos
 
