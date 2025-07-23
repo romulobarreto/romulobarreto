@@ -36,9 +36,6 @@
 
 ### ⭐️ GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=romulobarreto&show_icons=true&theme=radical" width="400px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulobarreto&layout=compact&theme=radical" width="400px"/>
-</div>
+![GitHub Metrics](https://github.com/romulobarreto/romulobarreto/blob/main/metrics.svg)
 
 <hr/>
