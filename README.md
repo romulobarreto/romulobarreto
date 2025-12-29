@@ -14,7 +14,7 @@
 - 🖥️ Analista de dados.
 - 🎓 Graduado em Administração, Marketing e Gestão Comercial.
 - 🏦 Certificação CPA-20.
-- 📚 Estudando Python e automatização de processos.
+- 📚 Estudando Engenharia de Dados.
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
 
 <hr>
@@ -23,9 +23,12 @@
 
 <div style="display: inline_block">
     <img align="center" alt="CSS" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="CSS" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-    <img align="center" alt="CSS" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img align="center" alt="CSS" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+    <img align="center" alt="CSS" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+    <img align="center" alt="CSS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+    <img align="center" alt="CSS" src="https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515"/>
+    <img align="center" alt="CSS" src="https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white"/>
+    <img align="center" alt="CSS" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"/>
+    <img align="center" alt="CSS" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>    
 </div><br/>
 
 <picture>
