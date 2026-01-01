@@ -15,7 +15,7 @@
 - 🎓 Graduado em Administração, Marketing e Gestão Comercial.
 - 🏦 Certificação CPA-20.
 - 📚 Estudando Engenharia de Dados.
-- 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🌍 Explorando novas tecnologias e desenvolvendo soluções.
 
 <hr>
 
