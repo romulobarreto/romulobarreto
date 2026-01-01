@@ -4,8 +4,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/romulo_ba/)
 
 <p align="left">
-    Atualmente sou analista de dados e desenvolvedor em formação. Criei esse GitHub com o objetivo de mostrar toda a minha trajetória até alcançar a engenharia de dados. <br>
-    Tenho focado meus estudos atualmente em <strong>python</strong>, com essa linguagem pretendo criar diversas soluções para oportunidades que tenho no meu dia a dia. <br>
+    Atualmente sou analista de dados e engenheiro em formação. Criei esse GitHub com o objetivo de mostrar toda a minha trajetória até alcançar a engenharia de dados. <br>
+    Tenho focado meus estudos atualmente em <strong>python</strong>, com essa linguagem pretendo criar diversas soluções para oportunidades de melhoria que tenho no meu dia a dia. <br>
     Tudo será documentado aqui, do básico ao avançado, me acompanhe 😉.
 </p>
 
@@ -39,11 +39,4 @@
 
 <hr/>
 
-## ⭐️ GitHub Stats  
 
-<a href="https://github.com/romulobarreto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romulobarreto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulobarreto&layout=compact&langs_count=6&theme=radical"/>
-
-
-<hr/>
